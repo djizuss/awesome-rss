@@ -5,7 +5,7 @@
   },
 
   "extensionDescription": {
-    "message": "Met un bouton de souscription RSS / Atom dans la barre d'URL",
+    "message": "Place un bouton de souscription RSS / Atom dans la barre d'adresse",
     "description": "Description of the extension displayed in the add-ons manager."
   },
 
@@ -18,31 +18,31 @@
     "description": "Message to show when page is secure or there are no feeds"
   },
   "optionsPageTitle": {
-    "message": "Options de Awesome RSS",
+    "message": "Options",
     "description": "Title for options / preferences page"
   },
   "themeLegend": {
-    "message": "Options de thème",
+    "message": "Thèmes",
     "description": "Text for general theming section `<legend>`"
   },
   "title@selectIcon": {
-    "message": "Icône de sélection",
+    "message": "Icône",
     "description": "Title attr for icon picked"
   },
   "option_lightIcon": {
-    "message": "Icône thème clair",
+    "message": "Icône claire",
     "description": "Text to display for light theme icon  `<option>`"
   },
   "option_darkIcon": {
-    "message": "Icône thème sombre",
+    "message": "Icône sombre",
     "description": "Text to display for dark theme icon `<option>`"
   },
   "option_orangeIcon": {
-    "message": "Icône thème orange",
+    "message": "Icône orange",
     "description": "Text to display for orange theme icon `<option>`"
   },
   "option_greenIcon": {
-    "message": "Icône thème vert",
+    "message": "Icône verte",
     "description": "Text to display for green theme icon `<option>`"
   },
   "subscriptionLegend": {
@@ -50,7 +50,7 @@
     "description": "Text to display for browser action options legend"
   },
   "title@rssSubscribe": {
-    "message": "Utiliser le flux RSS (par défaut)",
+    "message": "Utiliser le flux RSS par défaut",
     "description": "Title attribute input to select RSS as subscription option"
   },
   "title@feedlySubscribe": {
